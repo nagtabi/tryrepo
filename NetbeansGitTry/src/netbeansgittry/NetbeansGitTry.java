@@ -1,4 +1,3 @@
-
 package netbeansgittry;
 
 /**
@@ -6,9 +5,8 @@ package netbeansgittry;
  */
 public class NetbeansGitTry {
 
-   
     public static void main(String[] args) {
-        
+        System.out.println("Hello World.");
     }
 
 }
