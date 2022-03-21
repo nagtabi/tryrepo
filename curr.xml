@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding = "utf-8"?>
+<arfolyamok>
+	<valuta>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:28</datum>
+				<penznem>GBP</penznem>
+				<vetel>449.2500</vetel>
+				<eladas>481.8300</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:28</datum>
+				<penznem>AUD</penznem>
+				<vetel>246.6200</vetel>
+				<eladas>269.8600</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:28</datum>
+				<penznem>DKK</penznem>
+				<vetel>49.4500</vetel>
+				<eladas>54.6500</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:28</datum>
+				<penznem>JPY</penznem>
+				<vetel>2.9253</vetel>
+				<eladas>3.2009</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:28</datum>
+				<penznem>CAD</penznem>
+				<vetel>263.0600</vetel>
+				<eladas>287.8600</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:28</datum>
+				<penznem>NOK</penznem>
+				<vetel>37.6200</vetel>
+				<eladas>41.5800</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:28</datum>
+				<penznem>CHF</penznem>
+				<vetel>368.7900</vetel>
+				<eladas>395.5500</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:28</datum>
+				<penznem>SEK</penznem>
+				<vetel>33.9900</vetel>
+				<eladas>37.5700</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:28</datum>
+				<penznem>USD</penznem>
+				<vetel>344.7300</vetel>
+				<eladas>364.5900</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:28</datum>
+				<penznem>CZK</penznem>
+				<vetel>14.3300</vetel>
+				<eladas>16.1500</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:28</datum>
+				<penznem>PLN</penznem>
+				<vetel>74.6900</vetel>
+				<eladas>84.2300</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:28</datum>
+				<penznem>EUR</penznem>
+				<vetel>376.6000</vetel>
+				<eladas>398.3000</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:28</datum>
+				<penznem>HRK</penznem>
+				<vetel>48.1300</vetel>
+				<eladas>54.2700</eladas>
+			</item>
+
+	</valuta>
+	<deviza>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>GBP</penznem>
+				<vetel>456.2300</vetel>
+				<eladas>474.8500</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>AUD</penznem>
+				<vetel>255.0100</vetel>
+				<eladas>261.4700</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>DKK</penznem>
+				<vetel>51.4000</vetel>
+				<eladas>52.7000</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>JPY</penznem>
+				<vetel>3.0018</vetel>
+				<eladas>3.1244</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>CAD</penznem>
+				<vetel>272.0200</vetel>
+				<eladas>278.9000</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>NOK</penznem>
+				<vetel>39.1100</vetel>
+				<eladas>40.1000</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>CHF</penznem>
+				<vetel>374.5300</vetel>
+				<eladas>389.8100</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>SEK</penznem>
+				<vetel>35.3300</vetel>
+				<eladas>36.2300</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>USD</penznem>
+				<vetel>347.5700</vetel>
+				<eladas>361.7500</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>CZK</penznem>
+				<vetel>14.7800</vetel>
+				<eladas>15.7000</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>PLN</penznem>
+				<vetel>77.0800</vetel>
+				<eladas>81.8400</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>EUR</penznem>
+				<vetel>378.9300</vetel>
+				<eladas>395.9700</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>RON</penznem>
+				<vetel>77.1200</vetel>
+				<eladas>79.4600</eladas>
+			</item>
+			<item>
+				<bank>kh</bank>
+				<datum>2022-03-09 06:30:29</datum>
+				<penznem>TRY</penznem>
+				<vetel>24.0300</vetel>
+				<eladas>24.7700</eladas>
+			</item>
+
+	</deviza>
+</arfolyamok>
