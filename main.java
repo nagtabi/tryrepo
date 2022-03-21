@@ -6,6 +6,7 @@ class Main{
 		int a = 89;
 		double x = 23.45;
 		System.out.println(a + x);
+		//comment
 		
 	}
 }
